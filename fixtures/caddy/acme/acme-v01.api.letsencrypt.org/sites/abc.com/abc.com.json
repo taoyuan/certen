@@ -1,0 +1,6 @@
+{
+	"domain": "example.com",
+	"certUrl": "https://acme-v01.api.letsencrypt.org/acme/cert/036c9e72e88e0b9e0fefae7909ad0090927a",
+	"certStableUrl": "",
+	"accountRef": "https://acme-v01.api.letsencrypt.org/acme/reg/12508245"
+}

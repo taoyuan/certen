@@ -1,0 +1,22 @@
+{
+	"Email": "admin@example.com",
+	"Registration": {
+		"body": {
+			"resource": "reg",
+			"id": 12503143,
+			"key": {
+				"kty": "EC",
+				"crv": "P-384",
+				"x": "1eMA5ben_A-i0EJAlbahsk4dj21EexAY7LZSSPA56uxaKbWoiqdYAKXaoPN3LgTP",
+				"y": "HpUKeVB964GXwhXvl80HnvmBhczKYZhLGIJkRnWzIH0ppNp0kiuHS7X76CdRPQ1W"
+			},
+			"contact": [
+				"mailto:admin@example.com"
+			],
+			"agreement": "https://letsencrypt.org/documents/LE-SA-v1.1.1-August-1-2016.pdf"
+		},
+		"uri": "https://acme-v01.api.letsencrypt.org/acme/reg/12503143",
+		"new_authzr_uri": "https://acme-v01.api.letsencrypt.org/acme/new-authz",
+		"terms_of_service": "https://letsencrypt.org/documents/LE-SA-v1.1.1-August-1-2016.pdf"
+	}
+}
