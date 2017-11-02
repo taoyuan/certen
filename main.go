@@ -1,12 +1,12 @@
-package main
+package certen
 
 import (
-	"certen/certen/certenmain"
 	"log"
 	"os"
+	"certen/certen"
 )
 
-var run = certenmain.Run
+var run = certen.Run
 
 func main() {
 	log.SetFlags(0)

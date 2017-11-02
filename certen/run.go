@@ -1,4 +1,4 @@
-package certenmain
+package certen
 
 import (
 	"certen"

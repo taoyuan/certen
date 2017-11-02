@@ -1,0 +1,21 @@
+{
+	"ImportPath": "certen",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/mitchellh/go-homedir",
+			"Rev": "b8bc1bf767474819792c23f32d8286a45736f1c6"
+		},
+		{
+			"ImportPath": "github.com/paulvollmer/go-concatenate",
+			"Comment": "v0.1.0-1-g0c1f9ff",
+			"Rev": "0c1f9ff9cf4e2a41193f375cbe454fb8c18be971"
+		},
+		{
+			"ImportPath": "github.com/urfave/cli",
+			"Comment": "v1.20.0-28-g7bc6a0a",
+			"Rev": "7bc6a0acffa589f415f88aca16cc1de5ffd66f9c"
+		}
+	]
+}
